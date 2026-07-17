@@ -1,0 +1,20 @@
+regions:
+  - name: "Henry Hub"
+    code: "HH"
+    lat: 29.94
+    lon: -92.01
+
+  - name: "Chicago Citygate"
+    code: "CHCG"
+    lat: 41.88
+    lon: -87.63
+
+  - name: "Waha"
+    code: "WAHA"
+    lat: 31.70
+    lon: -103.20
+
+  - name: "Dominion South"
+    code: "DOMS"
+    lat: 40.30
+    lon: -79.90
