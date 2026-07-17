@@ -3,7 +3,6 @@
 ![Congestion](https://img.shields.io/badge/Congestion-Detected-red.svg)
 ![BasisSpread](https://img.shields.io/badge/Basis%20Spread-Modeled-yellow.svg)
 ![Forecasting](https://img.shields.io/badge/Forecasting-Short%20Term%20Ready-blueviolet.svg)
-![Backtest](https://img.shields.io/badge/Backtest-Walk%20Forward%20Complete-green.svg)
 ![NetworkModel](https://img.shields.io/badge/Structural%20Model-Oliver%20Mason%20Finnoff-critical.svg)
 
 
