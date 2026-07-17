@@ -1,0 +1,23 @@
+eia:
+  base_url: "https://api.eia.gov"
+  api_key: "YOUR_EIA_API_KEY"
+  series_ids:
+    henry_hub: "NG.HENRY_HUB.SPOT.PRICE.D"
+    chicago_citygate: "NG.CHICAGO_CITYGATE.SPOT.PRICE.D"
+
+pipeline_notices:
+  ferc:
+    base_url: "https://www.ferc.gov"
+  ebb:
+    providers:
+      - name: "Kinder Morgan"
+        url: "https://ebb.kindermorgan.com"
+      - name: "Williams"
+        url: "https://ebb.williams.com"
+
+weather:
+  provider: "NOAA"
+  base_url: "https://api.weather.gov"
+
+storage:
+  eia_storage_url: "https://www.eia.gov/naturalgas/storage/"
