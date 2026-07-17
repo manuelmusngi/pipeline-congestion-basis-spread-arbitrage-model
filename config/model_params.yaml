@@ -1,0 +1,23 @@
+basis_features:
+  lookback_days: 30
+  volatility_window: 20
+  zscore_window: 30
+
+congestion_model:
+  type: "linear_regression"
+  train_start: "2015-01-01"
+  train_end: "2022-12-31"
+  test_start: "2023-01-01"
+  test_end: "2024-12-31"
+
+arbitrage_classifier:
+  model_type: "random_forest"
+  threshold: 0.6
+  n_estimators: 200
+  max_depth: 6
+  min_samples_leaf: 5
+
+backtest:
+  transaction_cost_per_mmbtu: 0.02
+  capacity_limit_mmbtu: 50000
+  slippage_bps: 5
