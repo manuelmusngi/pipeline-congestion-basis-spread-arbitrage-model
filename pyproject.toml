@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pipeline-congestion-basis-model"
+version = "0.1.0"
+description = "Pipeline congestion and basis spread arbitrage model for natural gas."
+authors = [
+    { name = "m", email = "example@example.com" }
+]
+dependencies = [
+    "pandas",
+    "numpy",
+    "scikit-learn",
+    "matplotlib",
+    "seaborn",
+    "pyyaml",
+    "requests",
+    "jupyter",
+]
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]
