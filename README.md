@@ -1,5 +1,12 @@
 #### Pipeline-Congestion-Basis-Spread-Arbitrage-Model
 
+![Congestion](https://img.shields.io/badge/Congestion-Detected-red.svg)
+![BasisSpread](https://img.shields.io/badge/Basis%20Spread-Modeled-yellow.svg)
+![Forecasting](https://img.shields.io/badge/Forecasting-Short%20Term%20Ready-blueviolet.svg)
+![Backtest](https://img.shields.io/badge/Backtest-Walk%20Forward%20Complete-green.svg)
+![NetworkModel](https://img.shields.io/badge/Structural%20Model-Oliver%20Mason%20Finnoff-critical.svg)
+
+
 Pipeline Congestion & Basis Spread Arbitrage Model
 Identifying physical‑constraint‑driven arbitrage windows in U.S. Natural Gas markets
 
