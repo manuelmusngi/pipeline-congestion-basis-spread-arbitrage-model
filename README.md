@@ -52,3 +52,10 @@ pipeline-congestion-basis-model/\
 │       └── plotting.py\
 │\
 └── main.py
+
+#### Research Reference
+
+- [Pipeline Congestion and Basis Differentials](https://www.researchgate.net/publication/266908988_Pipeline_Congestion_and_Basis_Differentials)
+
+#### License
+This project is licensed under the [MIT License](LICENSE).
