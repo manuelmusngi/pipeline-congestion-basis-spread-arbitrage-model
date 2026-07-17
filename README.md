@@ -4,7 +4,8 @@ Pipeline Congestion & Basis Spread Arbitrage Model
 Identifying physical‑constraint‑driven arbitrage windows in U.S. Natural Gas markets
 
 📌 1. Overview
-This project is a repository that implements a structural + statistical modeling framework to detect pipeline congestion, regional imbalances, and basis spread dislocations in U.S. natural gas markets.
+
+This project is an exercise that implements a structural + statistical modeling framework to detect pipeline congestion, regional imbalances, and basis spread dislocations in U.S. natural gas markets.
 
 The model identifies arbitrage windows where:
 - Pipeline constraints create persistent price wedges
