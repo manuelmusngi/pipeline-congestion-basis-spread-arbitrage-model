@@ -38,6 +38,33 @@ Key insights used in this project:
 - Storage acts as an intertemporal substitute for transport.
 - Secondary capacity markets capture scarcity rents.
 
+📌 4. Modeling Architecture
+
+4.1 Feature Engineering
+- Basis Spread Features
+  - HH vs regional hubs (e.g., Waha, Dominion South, Chicago Citygate)
+  - Rolling z‑scores, volatility, term structure
+
+Congestion Features
+
+Pipeline utilization ratio
+
+Critical notices / OFOs
+
+Scheduled vs nominated flows
+
+Capacity scarcity index
+
+Regional Imbalance Metrics
+
+HDD/CDD deviations
+
+Storage deviation from 5‑yr norms
+
+Production outages
+
+LNG feedgas swings
+
 📁 Project Structure
 
 pipeline-congestion-basis-model/\
