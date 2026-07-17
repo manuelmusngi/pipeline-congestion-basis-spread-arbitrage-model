@@ -25,6 +25,19 @@ This framework is grounded in the structural economic model of pipeline congesti
 - This drives a wedge between spot prices across hubs
 - Storage availability reduces the congestion‑induced spread
 
+📌 2. Research Foundation
+
+Primary Paper (Core Structural Model)
+Pipeline Congestion and Basis Differentials  
+Matthew E. Oliver, Charles F. Mason, David Finnoff (2014)
+Journal of Regulatory Economics
+
+Key insights used in this project:
+- Congestion raises the shadow price of pipeline capacity.
+- This shadow price manifests as basis differentials.
+- Storage acts as an intertemporal substitute for transport.
+- Secondary capacity markets capture scarcity rents.
+
 📁 Project Structure
 
 pipeline-congestion-basis-model/\
