@@ -79,7 +79,7 @@ pipeline-congestion-basis-model/\
 │   │   └── [arbitrage_classifier.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/models/arbitrage_classifier.py)\
 │   │\
 │   ├── backtest/\
-│   │   ├── arbitrage_backtester.py\
+│   │   ├── [arbitrage_backtester.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/backtest/arbitrage_backtester.py)\
 │   │   └── pnl_metrics.py\
 │   │\
 │   └── utils/\
