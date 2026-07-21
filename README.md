@@ -42,7 +42,7 @@ Key insights used in this project:
 pipeline-congestion-basis-model/\
 │\
 ├── README.md\
-├── pyproject.toml\
+├── [pyproject.toml](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/pyproject.toml)\
 ├── requirements.txt\
 ├── config/\
 │   ├── data_sources.yaml\
