@@ -69,7 +69,7 @@ pipeline-congestion-basis-model/\
 │   │   └── [weather_loader.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/data/weather_loader.py)\
 │   │\
 │   ├── features/\
-│   │   ├── basis_features.py\
+│   │   ├── [basis_features.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/features/basis_features.py)\
 │   │   ├── congestion_features.py\
 │   │   └── imbalance_metrics.py\
 │   │\
