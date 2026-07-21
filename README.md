@@ -80,7 +80,7 @@ pipeline-congestion-basis-model/\
 │   │\
 │   ├── backtest/\
 │   │   ├── [arbitrage_backtester.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/backtest/arbitrage_backtester.py)\
-│   │   └── pnl_metrics.py\
+│   │   └── [pnl_metrics.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/backtest/pnl_metrics.py)\
 │   │\
 │   └── utils/\
 │       ├── logging_utils.py\
