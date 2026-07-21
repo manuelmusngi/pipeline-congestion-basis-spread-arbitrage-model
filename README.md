@@ -43,7 +43,7 @@ pipeline-congestion-basis-model/\
 │\
 ├── README.md\
 ├── [pyproject.toml](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/pyproject.toml)\
-├── requirements.txt\
+├── [requirements.txt](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/requirements.txt)\
 ├── config/\
 │   ├── data_sources.yaml\
 │   ├── model_params.yaml\
