@@ -76,7 +76,7 @@ pipeline-congestion-basis-model/\
 │   ├── models/\
 │   │   ├── [congestion_regression.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/models/congestion_regression.py)\
 │   │   ├── [structural_network_model.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/models/structural_network_model.py)\
-│   │   └── arbitrage_classifier.py\
+│   │   └── [arbitrage_classifier.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/models/arbitrage_classifier.py)\
 │   │\
 │   ├── backtest/\
 │   │   ├── arbitrage_backtester.py\
