@@ -64,7 +64,7 @@ pipeline-congestion-basis-model/\
 │   ├── [__init__.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/__init__.py)\
 │   ├── data/\
 │   │   ├── [eia_loader.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/data/eia_loader.py)\
-│   │   ├── pipeline_notices.py\
+│   │   ├── [pipeline_notices.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/data/pipeline_notices.py)\
 │   │   ├── capacity_scraper.py\
 │   │   └── weather_loader.py\
 │   │\
