@@ -74,7 +74,7 @@ pipeline-congestion-basis-model/\
 │   │   └── [imbalance_metrics.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/features/imbalance_metrics.py)\
 │   │\
 │   ├── models/\
-│   │   ├── congestion_regression.py\
+│   │   ├── [congestion_regression.py](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/src/models/congestion_regression.py)\
 │   │   ├── structural_network_model.py\
 │   │   └── arbitrage_classifier.py\
 │   │\
