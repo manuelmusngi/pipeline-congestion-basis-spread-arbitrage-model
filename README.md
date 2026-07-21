@@ -46,7 +46,7 @@ pipeline-congestion-basis-model/\
 ├── [requirements.txt](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/requirements.txt)\
 ├── config/\
 │   ├── [data_sources.yaml](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/config/data_sources.yaml)\
-│   ├── model_params.yaml\
+│   ├── [model_params.yaml](https://github.com/manuelmusngi/pipeline-congestion-basis-spread-arbitrage-model/blob/main/config/model_params.yaml)\
 │   └── regions.yaml\
 │\
 ├── data/\
